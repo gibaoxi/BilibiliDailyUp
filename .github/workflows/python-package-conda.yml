@@ -26,4 +26,4 @@ jobs:
   
       - name: 53
         run: |
-          python3 ｍａｉｎ.py
+          python3　main.py
